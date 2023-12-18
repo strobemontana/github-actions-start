@@ -3,7 +3,7 @@ targetScope = 'subscription'
 param systemName string
 param environmentName string
 @allowed([
-  'we' // West europe1
+  'we' // West europe
   'us' // East US (1)
   'asi' // East Japan
 ])
